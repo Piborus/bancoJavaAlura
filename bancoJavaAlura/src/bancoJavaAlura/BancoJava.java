@@ -6,7 +6,7 @@ public class BancoJava {
 
 	static String nome = "Haroldo Morais";
 	static String tipoConta = "Corrente";
-	static double saldo = 2599.00;
+	static double saldo = 2600.00;
 
 	public static void main(String[] args) {
 
